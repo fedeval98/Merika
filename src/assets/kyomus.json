@@ -1,0 +1,158 @@
+{
+  "nolei": {
+    "name": "Nolei",
+    "id": "429310221",
+    "color": "rgba(241, 234, 98, 0.56)",
+    "path": "nolei",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/nolei/on.jpeg",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/nolei/off.jpeg"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  },
+  "lumi": {
+    "name": "Luminaria Lillia",
+    "id": "926923945",
+    "color": "rgba(99, 176, 0, 1)",
+    "path": "lumi",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/lumi/on.jpeg",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/lumi/off.jpeg"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  },
+  "kana": {
+    "name": "Kana Imeru",
+    "id": "875107332",
+    "color": "rgba(166, 166, 255, 1)",
+    "path": "kana",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/kana/on.jpeg",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/kana/off.jpeg"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  },
+  "chia": {
+    "name": "Chia Nyakami",
+    "id": "1048390020",
+    "color": "rgba(247, 111, 134, 1)",
+    "path": "chia",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/chia/on.jpeg",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/chia/off.png"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  },
+  "yuzuye": {
+    "name": "Yuzuye Kurayami",
+    "id": "554067532",
+    "color": "rgba(174, 19, 146, 1)",
+    "path": "yuzuye",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/yuzuye/on.jpeg",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/yuzuye/off.jpeg"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  },
+  "suzuka": {
+    "name": "Suzuka Ryuka",
+    "id": "468068623",
+    "color": "rgba(246, 179, 183, 1)",
+    "path": "suzuka",
+    "img": {
+      "on": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/suzuka/on.png",
+      "off": "https://cdn.jsdelivr.net/gh/fedeval98/MerikaLib@main/suzuka/off.jpeg"
+    },
+    "social-media": {
+      "x": "https://x.com/iamnolei",
+      "ig": "https://www.instagram.com/iamnolei",
+      "tw": "https://www.twitch.tv/iamnolei",
+      "yt": "https://www.youtube.com/channel/UCxGpAfoXUhxx9W439VuM5LQ",
+      "ytASMR": "https://www.youtube.com/@NoleiASMR",
+      "ytVODS": "https://www.youtube.com/@NoleiVODS",
+      "dc": "https://discord.com/invite/vHAH2j4Smb",
+      "tk": "https://www.tiktok.com/@iamnolei"
+    },
+    "donations": {
+      "StreamElements": "https://streamelements.com/iamnolei/tip",
+      "StreamLabs": "https://streamlabs.com/iamnolei/tip",
+      "KO-FI": "https://ko-fi.com/nolei",
+      "Patreon": "https://www.patreon.com/nolei"
+    }
+  }
+}
