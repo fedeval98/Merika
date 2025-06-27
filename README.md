@@ -1,4 +1,4 @@
-# MerikaLive
+# Merika
 
 ## Description
 This Project is for MerikeLive VTuber group.
