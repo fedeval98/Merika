@@ -97,6 +97,15 @@ onMounted(async () => {
       }, 150);
     });
   });
+  
+  // Precargar las img off/on para hacer transiciones suaves
+  for (const kyomu of Object.values(kyomus)) {
+  const preloadOff = new Image();
+  const preloadOn = new Image();
+
+  preloadOff.src = kyomu.img.off;
+  preloadOn.src = kyomu.img.on;
+}
 });
 console.log(kyomus)
 </script>
@@ -109,7 +118,7 @@ console.log(kyomus)
       <li class="border p-4 bg-black text-white rounded-2xl w-80 h-80">
         <a href="https://linktr.ee/iamnolei">
           <figure class="flex justify-center items-center">
-            <img :src="kyomu.img.off" class="grayscale w-56 h-56" alt="" />
+            <img :src="kyomu.img.off" loading="eager" class="grayscale w-56 h-56" alt="" />
           </figure>
           <h3 class="text-center font-bold">{{ kyomu.name }}</h3>
           <div>
