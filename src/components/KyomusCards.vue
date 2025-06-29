@@ -116,7 +116,7 @@ console.log(kyomus)
     <!-- CARDS -->
     <template v-if="kyomus.length != 0" v-for="kyomu in kyomus">
       <li class="border p-4 bg-black text-white rounded-2xl w-80 h-80">
-        <a href="https://linktr.ee/iamnolei">
+        <a href="https://linktr.ee/iamnolei" target="_blank">
           <figure class="flex justify-center items-center">
             <img :src="kyomu.img.off" loading="eager" class="grayscale w-56 h-56" alt="" />
           </figure>
